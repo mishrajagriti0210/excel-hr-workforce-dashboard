@@ -38,28 +38,23 @@ The dashboard includes views for:
 
 ## Repository Contents
 - [HR Dashboard Excel workbook](HR_Dashboard_Data.xlsx)
-- Six dashboard screenshots in the `screenshots/` folder
+- Five dashboard screenshots in the `screenshots/` folder
 
 ## Dashboard Screenshots
 
 ### Dashboard Screenshot 1
-
 ![HR Dashboard Screenshot 1](screenshots/%7B3DC260BC-0A12-4425-9967-6FE74AB3F217%7D.png)
 
 ### Dashboard Screenshot 2
-
 ![HR Dashboard Screenshot 2](screenshots/%7B85FC4DA2-B32F-43C5-B620-5A60712F700D%7D.png)
 
 ### Dashboard Screenshot 3
-
 ![HR Dashboard Screenshot 3](screenshots/%7B8B22C827-AE4E-4B0C-AC37-D60ADA72479C%7D.png)
 
 ### Dashboard Screenshot 4
-
 ![HR Dashboard Screenshot 4](screenshots/%7BA29853FC-8178-4CA8-884F-2F0DD968871D%7D.png)
 
 ### Dashboard Screenshot 5
-
 ![HR Dashboard Screenshot 5](screenshots/%7BD5269F6F-D857-4D37-9F08-02C90EFC02BC%7D.png)
 
 ## How to Use
