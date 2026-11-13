@@ -51,11 +51,11 @@ The dashboard includes views for:
 ### Dashboard Screenshot 3
 ![HR Dashboard Screenshot 3](screenshots/%7B8B22C827-AE4E-4B0C-AC37-D60ADA72479C%7D.png)
 
-### Dashboard Screenshot 4
-![HR Dashboard Screenshot 4](screenshots/%7BA29853FC-8178-4CA8-884F-2F0DD968871D%7D.png)
-
 ### Dashboard Screenshot 5
 ![HR Dashboard Screenshot 5](screenshots/%7BD5269F6F-D857-4D37-9F08-02C90EFC02BC%7D.png)
+
+### Dashboard Screenshot 4
+![HR Dashboard Screenshot 4](screenshots/%7BA29853FC-8178-4CA8-884F-2F0DD968871D%7D.png)
 
 ## How to Use
 Download the Excel workbook from this repository and open it in Microsoft Excel. Use the dashboard views to explore workforce metrics and supporting analysis.
